@@ -1,2 +1,2 @@
-# Test_01
-This is my first repository.
+# Python Basics codes
+1. Bubble sort
